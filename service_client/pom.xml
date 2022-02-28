@@ -21,7 +21,7 @@
     <dependencies>
         <dependency>
             <groupId>com.wjq</groupId>
-            <artifactId>common-util</artifactId>
+            <artifactId>common_util</artifactId>
             <version>1.0</version>
             <scope>provided</scope>
         </dependency>
