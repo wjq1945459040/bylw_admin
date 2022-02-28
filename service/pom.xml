@@ -12,6 +12,11 @@
     <artifactId>service</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>service_user</module>
+        <module>service_oss</module>
+        <module>service_msm</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -26,7 +31,7 @@
         </dependency>
         <dependency>
             <groupId>com.wjq</groupId>
-            <artifactId>common-util</artifactId>
+            <artifactId>common_util</artifactId>
             <version>1.0</version>
         </dependency>
         <dependency>
