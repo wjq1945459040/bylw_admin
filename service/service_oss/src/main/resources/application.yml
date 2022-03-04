@@ -13,9 +13,4 @@ spring:
         server-addr: 127.0.0.1:8848
 
 #阿里云oss配置，自定义
-aliyun:
-  oss:
-    endpoint: oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tRxUsKyCCf8psYZ7AC1
-    secret: hoGgTYs5cGgoU8EsMs2B4BaJNG0n4T
-    bucket: bylw-wjq
+
